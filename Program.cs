@@ -6,7 +6,7 @@ namespace recursive_extension_metotlar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
