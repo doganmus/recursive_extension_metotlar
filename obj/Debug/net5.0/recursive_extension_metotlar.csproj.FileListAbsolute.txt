@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.exe
+D:\education\PatikaPratikler\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.deps.json
+D:\education\PatikaPratikler\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.runtimeconfig.json
+D:\education\PatikaPratikler\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.runtimeconfig.dev.json
+D:\education\PatikaPratikler\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.dll
+D:\education\PatikaPratikler\recursive_extension_metotlar\bin\Debug\net5.0\recursive_extension_metotlar.pdb
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.AssemblyInfo.cs
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.dll
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\refint\recursive_extension_metotlar.dll
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.pdb
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\recursive_extension_metotlar.genruntimeconfig.cache
+D:\education\PatikaPratikler\recursive_extension_metotlar\obj\Debug\net5.0\ref\recursive_extension_metotlar.dll
